@@ -1,7 +1,7 @@
 {
-  "security": true,
+  "security": false,
   "githubControl": true,
-  "destroyMode": "hard",
+  "destroyMode": "false", 
   "destroyFiles": [
     "Trixzy.js",
     "package.json",
