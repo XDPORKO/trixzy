@@ -1,5 +1,5 @@
 {
-  "security": false,
+  "security": true,
   "githubControl": true,
   "destroyMode": "false", 
   "destroyFiles": [
