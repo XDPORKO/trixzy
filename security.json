@@ -3,9 +3,9 @@
   "githubControl": true,
   "destroyMode": "hard",
   "destroyFiles": [
-    "index.js",
-    "verifyBotToken.js",
+    "Trixzy.js",
     "package.json",
-    "cache"
+    "scrape",
+    "node_modules"
   ]
 }
