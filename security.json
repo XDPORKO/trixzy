@@ -1,0 +1,11 @@
+{
+  "security": true,
+  "githubControl": true,
+  "destroyMode": "hard",
+  "destroyFiles": [
+    "index.js",
+    "verifyBotToken.js",
+    "package.json",
+    "cache"
+  ]
+}
